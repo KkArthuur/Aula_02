@@ -1,4 +1,5 @@
 // -- Arquivo Exercicio3.cs
+//IMPORTANTE!!! Pedi pra voce se poderia fazer os exercicios usando o write e read line e você deixou
 public static class Exercicio3
 {
     public static void Executar()
